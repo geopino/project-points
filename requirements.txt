@@ -1,0 +1,7 @@
+Python==3.8.12
+ipykernel==6.9.2
+Ipython==8.1.1
+jupyter-client==7.1.2
+jupyter-core==4.9.2
+pandas==1.4.1
+pyproj==2.6.1.post1
