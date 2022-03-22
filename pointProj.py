@@ -24,4 +24,4 @@ def projectCSV( origCSV, projCSV, origCoord, projCoord):
     df.to_csv(projCSV)
 
 if __name__ == "__main__":
-    main()
+    projectCSV()
